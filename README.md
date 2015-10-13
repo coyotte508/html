@@ -21,7 +21,7 @@ On Linux:
 ./gradlew html:dist
 ```
 
-On Windows:
+On Windows, in **powershell**:
 ```
 gradlew.bat html:dist
 ```
