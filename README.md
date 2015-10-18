@@ -28,6 +28,9 @@ On Windows, in **powershell**:
 gradlew.bat html:dist
 ```
 
+You can edit `html/build.gradle` and change `OBF` by `PRETTY` to *not* minify the code generated. However, the build may take longer.
+
 ###Run
 
 This is not a stand-alone repository. It is used as a submodule of `po-devs/po-web`.
+
